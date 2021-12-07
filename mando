@@ -1,0 +1,21 @@
+<div name="container">
+	<div name="user"></div>
+
+	<div name="first-box"></div>
+
+	<div name="second-box">
+		<div name="second-box-below">
+			<div name="box-mark-v2"></div>
+		</div>
+	</div>
+	<div name="third-box">
+		<div name="third-box-below">
+			<div name="box-mark-v4"></div>
+		</div>
+	</div>
+	<div name="fourth-box">
+		<div name="fourth-box-below">
+			<div name="box-mark-v3"></div>
+		</div>
+	</div>
+</div>
